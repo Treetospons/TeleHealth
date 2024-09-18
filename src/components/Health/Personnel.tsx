@@ -2,7 +2,6 @@ import React from 'react';
 import {StyleSheet, Text, View, ViewStyle} from 'react-native';
 import Colors from '~/styles/Colors';
 import Typography from '~/styles/Typography';
-import EditIcon from '~/assets/image/svg/edit-icon.svg';
 import PersonnelItem from './PersonnelItem';
 import {personnels} from '~/services/mockPersonnels';
 
